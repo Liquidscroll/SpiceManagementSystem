@@ -1,0 +1,8 @@
+faster_whisper==1.0.2
+firebase_admin==6.5.0
+numpy==1.24.2
+PyQt5==5.15.10
+PyQt5_sip==12.11.1
+sounddevice==0.4.7
+soundfile==0.12.1
+SpeechRecognition==3.10.4
