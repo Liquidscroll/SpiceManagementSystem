@@ -7,4 +7,4 @@ Includes the following:
 - Arduino Actuating System (`./Arduino/`)
 - Raspberry Pi Control GUI (`./RaspberryPi/`)
 - Android App to View Spices (`./SpiceListApp/`)
-- STL Files to print required structures (`./STLFiles/)
+- STL Files to print required structures (`./STLFiles/`)
